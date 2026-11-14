@@ -11,12 +11,15 @@
 **Fecha de entrega:** 14 de noviembre de 2026
 
 Buenos días. 
+
 Por medio de este repositorio entrego las actividades del taller de lógica de programación y las actividades con sus nombres para ser identificadas. 
 - Nivel básico.
 - Nivel intermedio.
 - Nivel avanzado.
 
   Se comparte los pseudocódigos y diagramas para su verificación. 
+
+
 
 ## Tabla de contenido
 
