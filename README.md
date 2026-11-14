@@ -17,7 +17,7 @@ Por medio de este repositorio entrego las actividades del taller de lógica de p
 - Nivel intermedio.
 - Nivel avanzado.
 
-  Se comparte los pseudocódigos y diagramas para su verificación. 
+Se comparte los pseudocódigos y diagramas para su verificación. 
 
 
 
